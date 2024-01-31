@@ -14,7 +14,7 @@ public class TablaMain {
 	 * @param args Argumentos de línea de comandos (no se utilizan en este caso)
 	 * @throws IOException Excepción de E/S en caso de error durante la lectura de entrada
 	 * @throws SQLException Excepción de SQL en caso de error en la conexión con la base de datos
-	 * @throws ParseException Excepción de análisis de cadena en caso de error al analizar datos.
+	 * @throws ParseException Excepción de análisis de cadena en caso de error al analizar datos
 	 */
 	public static void main(String[] args) throws IOException, SQLException, ParseException {
 		// Se crea una instancia de TablaMenu para gestionar el menú
